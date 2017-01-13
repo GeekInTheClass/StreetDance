@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C6F83D01E28930B008C520E /* CHContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83C71E28930B008C520E /* CHContentViewController.swift */; };
+		2C6F83D11E28930B008C520E /* CHControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83C81E28930B008C520E /* CHControls.swift */; };
+		2C6F83D21E28930B008C520E /* CHModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83C91E28930B008C520E /* CHModalViewController.swift */; };
+		2C6F83D31E28930B008C520E /* CHPagingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CA1E28930B008C520E /* CHPagingScrollViewController.swift */; };
+		2C6F83D41E28930B008C520E /* CHPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CB1E28930B008C520E /* CHPickerViewController.swift */; };
+		2C6F83D51E28930B008C520E /* DrawingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CC1E28930B008C520E /* DrawingCanvasView.swift */; };
+		2C6F83D61E28930B008C520E /* FIlters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CD1E28930B008C520E /* FIlters.swift */; };
+		2C6F83D71E28930B008C520E /* NavigationControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CE1E28930B008C520E /* NavigationControllers.swift */; };
+		2C6F83D81E28930B008C520E /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F83CF1E28930B008C520E /* RecordButton.swift */; };
 		CD25DF4F1E1E0DF100ADB60C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25DF4E1E1E0DF100ADB60C /* AppDelegate.swift */; };
 		CD25DF511E1E0DF100ADB60C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25DF501E1E0DF100ADB60C /* ViewController.swift */; };
 		CD25DF541E1E0DF100ADB60C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD25DF521E1E0DF100ADB60C /* Main.storyboard */; };
@@ -16,6 +25,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C6F83C71E28930B008C520E /* CHContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHContentViewController.swift; sourceTree = "<group>"; };
+		2C6F83C81E28930B008C520E /* CHControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHControls.swift; sourceTree = "<group>"; };
+		2C6F83C91E28930B008C520E /* CHModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHModalViewController.swift; sourceTree = "<group>"; };
+		2C6F83CA1E28930B008C520E /* CHPagingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPagingScrollViewController.swift; sourceTree = "<group>"; };
+		2C6F83CB1E28930B008C520E /* CHPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPickerViewController.swift; sourceTree = "<group>"; };
+		2C6F83CC1E28930B008C520E /* DrawingCanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingCanvasView.swift; sourceTree = "<group>"; };
+		2C6F83CD1E28930B008C520E /* FIlters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIlters.swift; sourceTree = "<group>"; };
+		2C6F83CE1E28930B008C520E /* NavigationControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationControllers.swift; sourceTree = "<group>"; };
+		2C6F83CF1E28930B008C520E /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
 		CD25DF4B1E1E0DF100ADB60C /* Ot-jjang.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ot-jjang.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD25DF4E1E1E0DF100ADB60C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD25DF501E1E0DF100ADB60C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +81,15 @@
 				CD25DF571E1E0DF100ADB60C /* LaunchScreen.storyboard */,
 				CD25DF5A1E1E0DF100ADB60C /* Info.plist */,
 				CDF1E31A1E1E396900E09AC1 /* UIViewController+Navigation.swift */,
+				2C6F83C71E28930B008C520E /* CHContentViewController.swift */,
+				2C6F83C81E28930B008C520E /* CHControls.swift */,
+				2C6F83C91E28930B008C520E /* CHModalViewController.swift */,
+				2C6F83CA1E28930B008C520E /* CHPagingScrollViewController.swift */,
+				2C6F83CB1E28930B008C520E /* CHPickerViewController.swift */,
+				2C6F83CC1E28930B008C520E /* DrawingCanvasView.swift */,
+				2C6F83CD1E28930B008C520E /* FIlters.swift */,
+				2C6F83CE1E28930B008C520E /* NavigationControllers.swift */,
+				2C6F83CF1E28930B008C520E /* RecordButton.swift */,
 			);
 			path = "Ot-jjang";
 			sourceTree = "<group>";
@@ -139,9 +166,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C6F83D31E28930B008C520E /* CHPagingScrollViewController.swift in Sources */,
 				CDF1E31B1E1E396900E09AC1 /* UIViewController+Navigation.swift in Sources */,
+				2C6F83D01E28930B008C520E /* CHContentViewController.swift in Sources */,
+				2C6F83D71E28930B008C520E /* NavigationControllers.swift in Sources */,
+				2C6F83D11E28930B008C520E /* CHControls.swift in Sources */,
 				CD25DF511E1E0DF100ADB60C /* ViewController.swift in Sources */,
+				2C6F83D51E28930B008C520E /* DrawingCanvasView.swift in Sources */,
 				CD25DF4F1E1E0DF100ADB60C /* AppDelegate.swift in Sources */,
+				2C6F83D81E28930B008C520E /* RecordButton.swift in Sources */,
+				2C6F83D61E28930B008C520E /* FIlters.swift in Sources */,
+				2C6F83D21E28930B008C520E /* CHModalViewController.swift in Sources */,
+				2C6F83D41E28930B008C520E /* CHPickerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
